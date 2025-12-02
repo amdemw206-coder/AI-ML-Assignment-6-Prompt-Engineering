@@ -7,7 +7,7 @@ Asking a LLM to generate a .CSV file using multiple prompt techniques along with
 ### LLM Used: 
 Google Gemini 3
 
-| Prompt Techniques | Output Format Score | Brief Observation |
+| Prompt Techniques | Output Format Score (1 to 10) | Brief Observation |
 |---|---|---|
 | Baseline | 6 | It looks like it takes all the raw text data and sets it as CSV entries, but it also makes it look very bloated. For example "First Pokémon generation" Could just be "1st" |
 | Role Prompt | 6.2 | Only notable difference would be the "Release date (Worldwide)" column compared to baseline |
