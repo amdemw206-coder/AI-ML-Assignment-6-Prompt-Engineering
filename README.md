@@ -14,3 +14,7 @@ Google Gemini 3
 | Chain-of-Thought | 7.2 | A huge jump in improvement, most notably at the "Generation" column. |
 | Self Refine | 6.8 | Even when asking Gemini to critique itself, it looks like it was satisfied with the inital baseline prompt output and didn't change much. The column titles are much better. |
 | Final (COT + Self Refine) | 7.5 | This two step final prompt approach produced an output I was pretty satisfied with. Although, it's missing elements that already exsited with the previous prompt techniques. |
+
+
+### Key Lessons: 
+I feel like these prompt techniques do make a huge difference for output generation from LLMs, but only using these techniques as a singular query leads to answers that are less than ideal (in my opinion). By using multiple techniques and multiple prompts for a task, you can get a pretty decent response from an LLM.     
