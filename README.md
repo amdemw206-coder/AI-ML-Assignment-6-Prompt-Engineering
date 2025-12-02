@@ -2,7 +2,7 @@
 #### By: Amde Wubshet
 
 ### Task: 
-Asking a LLM to generate a .CSV file using multiple prompt techniques along with raw text data as input.
+Asking a LLM to generate a .CSV file using multiple prompt techniques and raw text data (Mainline Pokemon Games) as input.
 
 ### LLM Used: 
 Google Gemini 3
