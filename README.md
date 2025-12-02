@@ -1,3 +1,12 @@
+## Project Title: AD 331 Prompt Engineering for Performance Improvement 
+#### By: Amde Wubshet
+
+### Task: 
+Asking a LLM to generate a .CSV file using multiple prompt techniques along with raw text data as input.
+
+### LLM Used: 
+Google Gemini 3
+
 | Prompt Techniques | Output Format Score | Brief Observation |
 |---|---|---|
 | Baseline | 6 | It looks like it takes all the raw text data and sets it as CSV entries, but it also makes it look very bloated. For example "First Pokémon generation" Could just be "1st" |
